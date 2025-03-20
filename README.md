@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on [my portfolio website](https://chandupamarapana.github.io/portfolio-website/)
+- 🔭 I’m currently working on a lot of things
 
-- 🌱 I’m currently learning **Spring-Boot**
+- 🌱 I’m currently learning **Spring-Boot , mobile application development **
 
 - 👨‍💻 All of my projects are available at [https://chandupamarapana.github.io/portfolio-website/](https://chandupamarapana.github.io/portfolio-website/)
 
