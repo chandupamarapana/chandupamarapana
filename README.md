@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chandupa</h1>
 <h3 align="center">I am a Software Engineering Student from Srilanka</h3>
-- 🔭 I’m a final Year Software Engineering student from Srilanka 
+- 🔭 Final-year Software Engineering undergraduate from Sri Lanka, with a strong interest in building scalable and efficient software solutions.
 
-- 🌱 Exploring full-stack web development, mobile application development for manufacturing industries, and machine learning with computer vision.
+- 🌱 Actively exploring full-stack web development, mobile application development for manufacturing and industrial systems, and machine learning with a focus on computer vision.
 
-- 👨‍💻 All of my projects are available at [https://chandupamarapana.github.io/portfolio-website/](https://chandupamarapana.github.io/portfolio-website/)
+- 👨‍💻 Showcasing academic, personal, and practical projects on my portfolio:  
+  👉 https://chandupamarapana.github.io/portfolio-website/
 
-- 📫 How to reach me **chandupamarapana@gmail.com**
+- 📫 Reach me via email: **chandupamarapana@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandupamarapana&" alt="chandupamarapana" /></p>
 
