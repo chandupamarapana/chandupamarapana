@@ -5,7 +5,7 @@
 - 🌱 Actively exploring full-stack web development, mobile application development for manufacturing and industrial systems, and machine learning with a focus on computer vision.
 
 - 👨‍💻 Showcasing academic, personal, and practical projects on my portfolio:  
-  👉 https://chandupamarapana.github.io/portfolio-website/
+  👉 https://portfolio-ruby-ten-80.vercel.app/
 
 - 📫 Reach me via email: **chandupamarapana@gmail.com**
 
